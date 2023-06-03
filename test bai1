@@ -1,0 +1,19 @@
+        
+<html>
+   <head>
+      <title>Ví dụ Định dạng HTML</title>
+   </head>
+   <body>
+      <p>Một văn bản bình thường </p>
+      <p><b> văn bản in đâm </b></p>
+      <p><big> văn bản cỡ chữ lớn hơn</big></p>
+      <p><i> in nghiêng văn bản </i></p>
+      <p><em>nhấn mạnh (in nghiêng)</em></p>
+      <p><small> văn bản chữ nhỏ hơn</small></p>
+      <p><strong>nhấn mạn văn bản (hiện thị in đậm)</strong></p>
+      <p>Text <sub>chỉ số dưới</sub></p>
+      <p>Text <sup>chỉ số trên</sup></p>
+      <p><ins> đánh dấu văn bản chèn vào </ins></p>
+      <p><del> đánh dấu là văn bản được xóa </del></p>
+   </body>
+</html>
